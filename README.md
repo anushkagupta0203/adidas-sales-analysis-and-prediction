@@ -9,6 +9,6 @@ Multiple Linear Regression
 Random Forest
 XGBoost
 Predictive Visualization in Python using Matplotlib and Seaborn.
-![Uploading image.png…]()
+
 
 
